@@ -4,8 +4,8 @@
 
 DESCRIPCIÓN:
 
-derivada aritetica: Es una herramienta para trabajar con números naturales. Usada para trabajar con primos.
+DERIVADA ARITMÉTICA: Es una herramienta para trabajar con números naturales, especialmente primos. No he podido añadir el module par apoder usar sus funciones en otro fichero.
 
-derivada segunda: Programa para derivar funciones de una variable real. Falta MUCHO por optimizar.
+DERIVADA SEGUNDA: Programa para derivar funciones de una variable real. FALTA MUCHO POR OPTIMIZAR.
 
-fracciones continuas: Programa para trabajar con funciones continuas
+FRACCONTINUAS: Programa para trabajar con funciones continuas. FALTA MUCHO POR OPTIMIZAR.
